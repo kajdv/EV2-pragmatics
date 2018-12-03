@@ -1,0 +1,14 @@
+#VeryUnlikely:before {
+  content: "Not likely";
+  padding-right: 1em;
+}
+
+#VeryLikely:after {
+  content: "Likely";
+  padding-left: 1em;
+}
+
+p {
+  max-width: 50em;
+  margin: auto;
+}
